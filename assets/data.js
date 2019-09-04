@@ -270,7 +270,7 @@ export const data = [
         Director: "N/A",
         Writer: "Courtney Kemp Agboh",
         Actors: "Omari Hardwick, Joseph Sikora, Andy Bean, Lela Loren",
-        Plot: "James "Ghost" St. Patrick, a wealthy New York night club owner who has it all, catering for the city's elite and dreaming big, lives a double life as a drug kingpin.",
+        Plot: "James Ghost St. Patrick, a wealthy New York night club owner who has it all, catering for the city's elite and dreaming big, lives a double life as a drug kingpin.",
         Language: "English",
         Country: "USA",
         Awards: "1 win & 6 nominations.",
